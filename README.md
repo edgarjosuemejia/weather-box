@@ -45,7 +45,7 @@ Then in the configure.wrf file change any occurrences of `-O3` to `-O2` and reco
 
 Please email me with any comments or questions. Happy WRFing...
 
-** References ** 
+**References** 
 
 - http://www2.mmm.ucar.edu/wrf/OnLineTutorial/compilation_tutorial.php
 - http://www.aoddy.com/2014/09/09/how-to-install-wrf-3-6-1-on-ubuntu-14-10-server/
